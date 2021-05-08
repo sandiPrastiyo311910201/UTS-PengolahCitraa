@@ -1,5 +1,6 @@
 # UTS-PengolahCitraa
 
+# BERIKUT LINK YOUTUBE : https://youtu.be/Jt4eNymHi5s
 berikut hasilnya
 
 ![sn](https://user-images.githubusercontent.com/81818405/117519639-8e45e080-afce-11eb-8813-22e7baca821d.PNG)
